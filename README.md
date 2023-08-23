@@ -6,6 +6,7 @@ Problem Statement: Predict which users of an e-commerce startup are likely to ch
 Approach:
 
 Used Python to clean data (missing values, incorrect data types) and performed feature engineering using correlation
+
 Compared logistic regression and random forest models 
 
 Random forest model performed better in predicting on training data set which user is more likely to churn
